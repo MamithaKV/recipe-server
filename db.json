@@ -1,0 +1,18 @@
+{
+  "uploadRecipes": [
+    {
+      "id": "3f4a",
+      "title": "fruitsalad",
+      "ingredients": "pineapple, kiwi, bananas, oranges",
+      "imageUrl": "https://www.foxyfolksy.com/wp-content/uploads/2018/12/filipino-fruit-salad-640.jpg",
+      "category": "others"
+    },
+    {
+      "id": "504f",
+      "title": "chapathi",
+      "ingredients": "floor , water,salt",
+      "imageUrl": "https://foodofinterest.com/wp-content/uploads/2019/03/BananaChapathi.jpg",
+      "category": "other"
+    }
+  ]
+}
